@@ -5787,6 +5787,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="116.84" y="33.02" size="2.54" layer="94" font="vector" align="center">AVR ISP Connector</text>
 <wire x1="147.32" y1="96.52" x2="248.92" y2="96.52" width="0.2032" layer="97" style="longdash"/>
 <text x="43.18" y="33.02" size="2.54" layer="94" font="vector" align="center">Power LED</text>
+<text x="165.862" y="11.176" size="2.54" layer="94">NPoole</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
